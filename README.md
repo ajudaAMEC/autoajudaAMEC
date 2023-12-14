@@ -27,4 +27,5 @@ Um requisito funcional é uma declaração de como um sistema deve se comportar.
 ### 3.	Requisitos Não Funcionais 
 Os requisitos não funcionais explicam as limitações e restrições do sistema a ser projetado. Esses requisitos não têm nenhum impacto na funcionalidade do aplicativo. Além disso, existe uma prática comum de sub-classificar os requisitos não funcionais em várias categorias. Na tabela 2 é listado os Requisitos Não Funcionais do Projeto Integrador 
 > Fonte: https://visuresolutions.com/pt/blog/functional-requirements
-![image](https://github.com/ajudaAMEC/autoajudaAMEC/assets/128084447/f70c67fc-cfde-4445-ac1b-71f211cb06b1)
+![image](https://github.com/ajudaAMEC/autoajudaAMEC/assets/128084447/93ca8348-2549-4112-bd66-6b453d909949)
+
