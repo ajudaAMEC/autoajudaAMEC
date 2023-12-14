@@ -22,3 +22,4 @@ A proposta do site é que as pessoas que têm medo de desabafar ou tem vergonha 
 Um requisito funcional é uma declaração de como um sistema deve se comportar. Define o que o sistema deve fazer para atender às necessidades ou expectativas do usuário. Os requisitos funcionais podem ser pensados como recursos que o usuário detecta. Na tabela 1 é listado os Requisitos Funcionais do Projeto Integrador.
 
 > Fonte: https://visuresolutions.com/pt/blog/functional-requirements
+![image](https://github.com/ajudaAMEC/autoajudaAMEC/assets/128084447/6747ced2-e916-4416-9981-cb58a3505da3)
