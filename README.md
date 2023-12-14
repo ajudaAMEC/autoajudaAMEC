@@ -12,7 +12,6 @@ enquanto encoraja a solidariedade e a empatia entre seus membros.
 ## Documentação AMEC
 
 ### 1.	Escopo do Projeto
-
 Nosso projeto é um site para as pessoas que tem dificuldade de desabafar sobre o que sentem. Nele, além de poderem desabafar anonimamente sobre tal assunto, vão poder ter acesso a várias explicações e vídeos sobre aquilo que eles tiverem dúvidas.
 O site vai possuir barras de comentários para que outras pessoas possam ajudar e aconselhar eles. Todos os textos de explicações dos transtornos ou doenças mentais, serão baseadas em estudos psicológicos e científico.
 A proposta do site é que as pessoas que têm medo de desabafar ou tem vergonha de falar sobre o que sentem, possam se sentir acolhidas, pois nem todos conseguem se expressar. E também muitos não possuem uma renda suficiente para ir a um psicólogo, queremos que todos se sintam incluídos sobre esses assuntos, para que possam ver que não é frescura ou drama esses transtornos e que precisam de ajuda de profissionais.
@@ -30,4 +29,11 @@ Os requisitos não funcionais explicam as limitações e restrições do sistema
 
 ### 4.	Diagrama Caso de Uso
 Esse diagrama documenta o que o sistema faz do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema. Conforme a Figura 1.
+> Fonte:https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408
+![image](https://github.com/ajudaAMEC/autoajudaAMEC/assets/128084447/1dc9d9ed-a02c-492a-b2fc-58ad8fd2f3f2)
+
+5.	Diagrama: Mapa do Site.
+Funciona como uma espécie de mapa que irá ajudar e guiar o robô de busca, ou o usuário, a navegar e encontrar páginas do site. Conforme a Figura 2.
+![image](https://github.com/ajudaAMEC/autoajudaAMEC/assets/128084447/2db69204-8e7c-4c21-a648-64eb0c0d0cc6)
+
 
