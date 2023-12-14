@@ -29,7 +29,7 @@ Os requisitos não funcionais explicam as limitações e restrições do sistema
 
 ### 4.	Diagrama Caso de Uso
 Esse diagrama documenta o que o sistema faz do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema. Conforme a Figura 1.
-> Fonte:https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408
+> Fonte:https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a
 ![image](https://github.com/ajudaAMEC/autoajudaAMEC/assets/128084447/1dc9d9ed-a02c-492a-b2fc-58ad8fd2f3f2)
 
 5.	Diagrama: Mapa do Site.
