@@ -1,5 +1,14 @@
 # autoajudaamec.github.io
 
+## OBJETIVO DO SITE
+A AMEC visa oferecer suporte a indivíduos que enfrentam transtornos
+mentais, proporcionando um ambiente acolhedor por meio de seu site
+especializado. Nesse espaço online, as pessoas têm a oportunidade de
+desabafar, compartilhar suas vivências e encontrar apoio mútuo. A AMEC
+compromete-se a ser uma rede de apoio vital, promovendo a
+conscientização e a compreensão sobre questões de saúde mental,
+enquanto encoraja a solidariedade e a empatia entre seus membros.
+
 ## Documentação AMEC
 
 ### 1.	Escopo do Projeto
