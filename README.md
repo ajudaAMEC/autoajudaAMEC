@@ -1,5 +1,6 @@
 # autoajudaamec.github.io
-## Equipe : Ana clara P.
+## Equipe :
+            Ana clara P.
             Carolina O.
             Erika D.
             Maria Eduarda I.
