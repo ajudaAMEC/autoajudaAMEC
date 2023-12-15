@@ -1,5 +1,9 @@
 # autoajudaamec.github.io
-
+## Equipe : Ana clara P.
+            Carolina O.
+            Erika D.
+            Maria Eduarda I.
+            
 ## **OBJETIVO DO SITE**
 A AMEC visa oferecer suporte a indivíduos que enfrentam transtornos
 mentais, proporcionando um ambiente acolhedor por meio de seu site
